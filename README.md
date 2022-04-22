@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sbarvin&show_icons=true&include_all_commits=true&&count_private=true">
 
 <!--
